@@ -5,7 +5,7 @@
 - Rotary encoder for turning up and down the volume & mute button
 - Remaining 12 switches for macros and shortcuts
 - Started off with the [Hackpad Guide](https://hackpad.hackclub.com/guide)
-- Got recommended the [NRF52840](https://www.aliexpress.com/item/1005007205026373.html)
+- Got recommended the [NRF52840](https://www.aliexpress.com/item/1005007205026373.html)\
 <img width="661" height="588" alt="image" src="https://github.com/user-attachments/assets/0a6e4cdd-c6a4-4b88-806d-3ebe476cc07b" />\
 First iteration of the schematic
 - Looked super simple so I decided to add a few things
