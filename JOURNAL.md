@@ -13,7 +13,7 @@ First iteration of the schematic
 - 110 mAh battery so I can use it wirelessly like a remote control
 - I only had enough pins for the encoder and switches, not enough for the OLED display
 - Was referred to this [Joe Scotto tutorial](https://youtu.be/8WXpGTIbxlQ?si=8FqVbhXCCD7eRLAT) and switched to using diodes like he does
-<img width="1141" height="791" alt="image" src="https://github.com/user-attachments/assets/d8a2bbff-3772-4d9e-a036-0128e6d971e7" />\
+<img width="926" height="637" alt="image" src="https://github.com/user-attachments/assets/ff7b25dd-17d0-459c-be97-40e3782d9165" />\
 Current iteration of the schematic\
 
-Hours spent: ~2.5 Hours
+Hours spent: ~2.5 Hours\
