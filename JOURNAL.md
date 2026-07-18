@@ -19,7 +19,6 @@ Current iteration of the schematic
 Hours spent: ~2.5 Hours
 
 ## July 17th - The PCB
-- 
 - Updated PCB from schematic and dragged all the components into place
 - Had the wrong footprint so I just got the nice!nano footprint since the difference between the NRF52840 and the nice!nano isn't applicable to my use case
 - I have to flip the OLED screen upside down but it should be a quick firmware tweak to make it display things upright to user
