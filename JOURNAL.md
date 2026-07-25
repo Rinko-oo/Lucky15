@@ -31,3 +31,19 @@ PCB with filled zones
 - Case is next
 
 Hours spent: ~1.5
+
+## July 24th - Case Bottom
+- I'm used to Onshape but I want to learn SolidWorks since I'm going to University and will probably have to learn it anyway so the sooner the better
+- There was a massive learning curve starting out but I figured out the shortcuts in the end
+- Assembly was definitely a pain to work with and I struggled with the mates for a while
+- Got a mockup of the bottom going
+<img width="770" height="590" alt="Screenshot 2026-07-24 002216" src="https://github.com/user-attachments/assets/3f795476-c024-4927-8626-83341219c171" />\
+Top View
+<img width="572" height="837" alt="Screenshot 2026-07-24 002715" src="https://github.com/user-attachments/assets/52503ff8-91c5-4402-85c4-b6b8d9ee2c85" />\
+Side/Bottom View
+- Discovered that with my setup I can stuff a much larger battery inside
+- Going for one around the 500 mAh area (5mm tall)
+- Probably going to use velcro or double sided tape to fix it to the bottom of the case
+- The walls look kind of weak and I have to figure out how to actually fix the pcb into the case but that is another day's problem
+
+Hours spent: ~2.5
