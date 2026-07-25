@@ -38,7 +38,7 @@ Hours spent: ~1.5
 - Assembly was definitely a pain to work with and I struggled with the mates for a while
 - Got a mockup of the bottom going
 <img width="770" height="590" alt="Screenshot 2026-07-24 002216" src="https://github.com/user-attachments/assets/3f795476-c024-4927-8626-83341219c171" />\
-Top View
+Top View\
 <img width="572" height="837" alt="Screenshot 2026-07-24 002715" src="https://github.com/user-attachments/assets/52503ff8-91c5-4402-85c4-b6b8d9ee2c85" />\
 Side/Bottom View
 - Discovered that with my setup I can stuff a much larger battery inside
