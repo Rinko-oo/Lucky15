@@ -47,3 +47,14 @@ Side/Bottom View
 - The walls look kind of weak and I have to figure out how to actually fix the pcb into the case but that is another day's problem
 
 Hours spent: ~2.5
+
+## August 3rd - Case Top + Nob
+- Widened the side walls to 8mm
+- Filleted edges out so that it's more comfortable to use
+- Covered the MCU and empty PCB space
+- Planning on putting a design there and maybe an easter egg on the inside but I can't think of anything
+<img width="828" height="770" alt="Screenshot 2026-08-04 000410" src="https://github.com/user-attachments/assets/6e6e4c33-3022-4d0c-9dec-e48308b62a51" />\
+Current State\
+- Planning on using 4 M3 screws to hold it together but I need to test out the self-tapping first because I don't trust it yet.
+
+Hours spent: ~2
