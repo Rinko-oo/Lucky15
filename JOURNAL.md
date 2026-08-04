@@ -54,7 +54,7 @@ Hours spent: ~2.5
 - Covered the MCU and empty PCB space
 - Planning on putting a design there and maybe an easter egg on the inside but I can't think of anything
 <img width="828" height="770" alt="Screenshot 2026-08-04 000410" src="https://github.com/user-attachments/assets/6e6e4c33-3022-4d0c-9dec-e48308b62a51" />\
-Current State\
+Current State
 - Planning on using 4 M3 screws to hold it together but I need to test out the self-tapping first because I don't trust it yet.
 
 Hours spent: ~2
