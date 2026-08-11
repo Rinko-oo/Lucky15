@@ -58,3 +58,13 @@ Current State
 - Planning on using 4 M3 screws to hold it together but I need to test out the self-tapping first because I don't trust it yet.
 
 Hours spent: ~2
+
+## August 10th - Firmware
+- Started out the firmware with the ZMK documentation
+- Heard that doing it inside an already existing repo would be a struggle so I made [another one](https://github.com/Rinko-oo/Lucky15-zmk-config)
+- 3 keymaps
+- Default for macros and miscellaneous binds
+- Numpad for numbers
+- Settings for managing bluetooth and flashing new firmware, mainly utility
+- Used many references and much help from a friend
+- Next is designing the case & figuring out how to actually do stuff with the OLED display
