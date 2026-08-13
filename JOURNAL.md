@@ -59,12 +59,13 @@ Current State
 
 Hours spent: ~2
 
-## August 10th - Firmware
+## August 13th - Firmware
 - Started out the firmware with the ZMK documentation
 - Heard that doing it inside an already existing repo would be a struggle so I made [another one](https://github.com/Rinko-oo/Lucky15-zmk-config)
 - 3 keymaps
 - Default for macros and miscellaneous binds
 - Numpad for numbers
 - Settings for managing bluetooth and flashing new firmware, mainly utility
-- Used many references and much help from a friend
-- Next is designing the case & figuring out how to actually do stuff with the OLED display
+- Next is putting designs on the case & figuring out how to draw on the OLED display
+
+Hours spent: ~1.5
