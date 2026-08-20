@@ -1,0 +1,6 @@
+if SHIELD_LUCKY15
+
+config ZMK_KEYBOARD_NAME
+    default "Lucky15"
+
+endif # SHIELD_LUCKY15
