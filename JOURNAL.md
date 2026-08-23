@@ -69,3 +69,15 @@ Hours spent: ~2
 - Next is putting designs on the case & figuring out how to draw on the OLED display
 
 Hours spent: ~1.5
+
+## August 21st - Tweaks
+- Forgot to put a hole for the usb-c port so I added that
+- Made it extra wide to accommodate fatter cables
+- Added tabs to align the case so I wouldn't be misalign the case when making the threads. There is one one the top and one at the bottom.
+<img width="543" height="392" alt="image" src="https://github.com/user-attachments/assets/5820aba6-f278-488d-95f5-034d21e4af60" />\
+Top Tab\
+<img width="541" height="320" alt="image" src="https://github.com/user-attachments/assets/15d3a78e-40fb-4f45-826e-618ded054a7f" />\
+Usb-c hole
+
+Hours spent: ~0.5
+
