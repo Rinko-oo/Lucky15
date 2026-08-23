@@ -19,6 +19,10 @@
             #sensor-binding-cells = <0>;
             bindings = <&bt BT_PRV>, <&bt BT_NXT>;
         };
+
+        soft_off: soft_off {
+            hold-time-ms = <1000>;
+        };
     };
 
 
@@ -61,14 +65,14 @@
         settings_layer {
             display-name = "Settings";
             // | SysReset | OutTog | BootLoader | ClearBT |
+            // |    |    |    |  Studio Unlock  |
             // |    |    |    |    |
-            // |    |    |    |    |
-            // |  Studio Unlock  |    |    |  Layer  |
+            // |  Soft Off  |    |    |  Layer  |
             bindings = <
                 &sys_reset      &out OUT_TOG  &bootloader     &bt BT_CLR
+                &none           &none         &none           &studio_unlock 
                 &none           &none         &none           &none 
-                &none           &none         &none           &none 
-                &studio_unlock  &none         &none           &to DEFAULT
+                &soft_off       &none         &none           &to DEFAULT
             >;
             sensor-bindings = <&rot_bt>;
         };
