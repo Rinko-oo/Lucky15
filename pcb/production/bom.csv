@@ -1,7 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-BT1,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1,Battery,
-"D1, D10, D11, D12, D13, D14, D15, D16, D2, D3, D4, D5, D6, D7, D8, D9",Diode_DO-35,16,~,
-J1,OLED_128x32,1,OLED_128x32,
-"S1, S10, S11, S12, S13, S14, S15, S2, S3, S4, S5, S6, S7, S8, S9",MX_PCB_1.00u,15,~,
-SW8,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles,1,RotaryEncoder_Switch,
-U1,nice_nano,1,ProMicro,
