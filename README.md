@@ -26,4 +26,4 @@ This is everything needed to build the Lucky15, currently all available on AliEx
 | 1 | EC11 Rotary Encoder | [Link](https://www.aliexpress.com/item/1005004908084537.html) | $6.24 |
 | 1 | PCB | [Link](https://jlcpcb.com/) | $11.18 |
 | 1 | MSK12C02 Switch | [Link](https://www.aliexpress.com/item/4000685483225.html) | $3.59 |
-|  |  | **Total** | **$55.83** |
+|  |  | **Total** | **$60.50** |
