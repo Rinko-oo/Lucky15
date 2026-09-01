@@ -1187,6 +1187,196 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Switch:SW_SPDT"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_SPDT"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Switch, single pole double throw"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_SPDT_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.651 0.254) (xy 1.651 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_SPDT_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "kbd:ProMicro"
 			(pin_names
 				(offset 1.016)
@@ -2571,7 +2761,7 @@
 	)
 	(global_label "BATT-"
 		(shape input)
-		(at 185.42 73.66 0)
+		(at 189.23 74.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2581,7 +2771,7 @@
 		)
 		(uuid "750fe496-3f12-4cf8-aa13-4a85130a02bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 194.2714 73.66 0)
+			(at 198.0814 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2763,7 +2953,7 @@
 	)
 	(global_label "BATT+"
 		(shape input)
-		(at 175.26 73.66 180)
+		(at 168.91 77.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2773,7 +2963,7 @@
 		)
 		(uuid "b7c5656e-cba7-477d-a07c-fad5098ee546")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.4086 73.66 0)
+			(at 160.0586 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3867,6 +4057,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_SPDT")
+		(at 173.99 74.93 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57d3bdae-763e-4079-a917-52de9e420884")
+		(property "Reference" "SW1"
+			(at 173.99 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPDT"
+			(at 173.99 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_Shouhan_MSK12C02"
+			(at 173.99 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 173.99 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Switch, single pole double throw"
+			(at 173.99 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "10b92085-c490-48ef-badd-6847c69075f7")
+		)
+		(pin "1"
+			(uuid "22407a32-fa12-40e0-a21f-ddc0ae508787")
+		)
+		(pin "2"
+			(uuid "90893bcd-6aea-4c6c-aa76-7ae481d7848d")
+		)
+		(instances
+			(project "Lucky15"
+				(path "/d6a2b069-1da0-4ba9-b086-6a1c47b64c3b"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 116.84 106.68 0)
 		(unit 1)
@@ -4509,7 +4782,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery")
-		(at 180.34 73.66 90)
+		(at 184.15 74.93 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4520,7 +4793,7 @@
 		(fields_autoplaced yes)
 		(uuid "96eca0e8-588e-47a6-9bac-9623c4ca386f")
 		(property "Reference" "BT1"
-			(at 178.4984 69.85 0)
+			(at 182.3084 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4531,7 +4804,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 181.0384 69.85 0)
+			(at 184.8484 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4542,7 +4815,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
-			(at 178.816 73.66 90)
+			(at 182.626 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4553,7 +4826,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 178.816 73.66 90)
+			(at 182.626 74.93 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4564,7 +4837,7 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
-			(at 180.34 73.66 0)
+			(at 184.15 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4575,7 +4848,7 @@
 			)
 		)
 		(property "Sim.Device" "V"
-			(at 180.34 73.66 0)
+			(at 184.15 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4586,7 +4859,7 @@
 			)
 		)
 		(property "Sim.Type" "DC"
-			(at 180.34 73.66 0)
+			(at 184.15 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4597,7 +4870,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 180.34 73.66 0)
+			(at 184.15 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
