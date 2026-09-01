@@ -81,3 +81,12 @@ Usb-c hole
 
 Hours spent: ~0.5
 
+## August 23rd - First Submission
+- Compiled every part needed into spreadsheet
+- Everything is from AliExpress and the PCB is from JLCPCB
+- Updated readme with the list of parts & links
+- Also updated firmware since I forgot to put an on/off switch so I can save battery by putting it into deep sleep
+- PCB will be 1.6mm thick instead of 1.5 as the CAD suggests so I will tweak for that later
+- Case will be 3D printed
+![image](https://cdn.hackclub.com/01a031e9-aeb0-7f76-af22-f5863235b331/image.png)\
+Google Sheet of items to buy
