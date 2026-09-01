@@ -95,8 +95,8 @@ Hours spent: ~1.5
 
 ## August 31st - On/Off Switch & Submission
 - I forgot to add an on/off switch after I decided to add a battery
-- Added it to the schematic and put it on the top right of the board
-![image](https://cdn.hackclub.com/01a05a7e-0bd7-757b-ab14-f273ef7662d8/image.png)\
+- Added it to the schematic and put it on the top right of the board\
+![image](https://cdn.hackclub.com/01a05a7e-0bd7-757b-ab14-f273ef7662d8/image.png)
 - The walls of the macropad are very thick so I made a new part to make it easy to turn on and off
 ![image](https://cdn.hackclub.com/01a05a6e-1fe6-7c55-86d9-8239a643c118/image.png)\
 - I'm not sure as to its effectiveness but in my head it works fine
