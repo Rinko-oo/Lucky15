@@ -5,11 +5,11 @@
 <img width="891" height="798" alt="image" src="https://github.com/user-attachments/assets/a17c6881-d9f0-4370-ad23-17a614b20bfc" />
 
 ## PCB
-<img width="662" height="802" alt="image" src="https://github.com/user-attachments/assets/bf9d8ce5-9d37-4e31-9159-fda5fdcdaff3" />
-<img width="657" height="795" alt="image" src="https://github.com/user-attachments/assets/bba48229-6cb7-4e6b-878e-2906fc830ebd" />
+<img width="592" height="722" alt="image" src="https://github.com/user-attachments/assets/d52fe601-a8be-4732-985e-f2934210296e" />
+<img width="592" height="720" alt="image" src="https://github.com/user-attachments/assets/b3d05f59-c4e7-45fa-9e5d-05ea6518e9bc" />
 
 ## Schematic
-<img width="1132" height="787" alt="image" src="https://github.com/user-attachments/assets/c4c84999-58d4-47a0-9b3d-0a95df75dc66" />
+<img width="1135" height="792" alt="image" src="https://github.com/user-attachments/assets/a5b33e7d-5da3-4fce-a50a-ce415c585edb" />
 
 ## BOM
 This is everything needed to build the Lucky15, currently all available on AliExpress\
