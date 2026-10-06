@@ -1,11 +1,11 @@
-# JOURNAL.md
 ---
 Title: Lucky15
 Author: William
 Description: 15 key + rotary encoder macropad for media control and macros
 Created: 2026-07-15
 ---
-## July 15th - Starting Out
+
+# July 15th - Starting Out
 - Decided on a 4x4 macropad with 15 keys and a rotary encoder
 - The 3 Switches at the top are to be previous track, pause/play, and next track
 - Rotary encoder for turning up and down the volume & mute button
@@ -24,7 +24,7 @@ Current iteration of the schematic
 
 Hours spent: ~2.5 Hours
 
-## July 17th - The PCB
+# July 17th - The PCB
 - Updated PCB from schematic and dragged all the components into place
 - Had the wrong footprint so I just got the nice!nano footprint since the difference between the NRF52840 and the nice!nano isn't applicable to my use case
 - I have to flip the OLED screen upside down but it should be a quick firmware tweak to make it display things upright to user
@@ -38,7 +38,7 @@ PCB with filled zones
 
 Hours spent: ~1.5
 
-## July 24th - Case Bottom
+# July 24th - Case Bottom
 - I'm used to Onshape but I want to learn SolidWorks since I'm going to University and will probably have to learn it anyway so the sooner the better
 - There was a massive learning curve starting out but I figured out the shortcuts in the end
 - Assembly was definitely a pain to work with and I struggled with the mates for a while
@@ -54,7 +54,7 @@ Side/Bottom View
 
 Hours spent: ~2.5
 
-## August 3rd - Case Top + Nob
+# August 3rd - Case Top + Nob
 - Widened the side walls to 8mm
 - Filleted edges out so that it's more comfortable to use
 - Covered the MCU and empty PCB space
@@ -65,7 +65,7 @@ Current State
 
 Hours spent: ~2
 
-## August 13th - Firmware
+# August 13th - Firmware
 - Started out the firmware with the ZMK documentation
 - Heard that doing it inside an already existing repo would be a struggle so I made [another one](https://github.com/Rinko-oo/Lucky15-zmk-config)
 - 3 keymaps
@@ -76,7 +76,7 @@ Hours spent: ~2
 
 Hours spent: ~1.5
 
-## August 21st - Tweaks
+# August 21st - Tweaks
 - Forgot to put a hole for the usb-c port so I added that
 - Made it extra wide to accommodate fatter cables
 - Added tabs to align the case so I wouldn't be misalign the case when making the threads. There is one one the top and one at the bottom.
@@ -87,7 +87,7 @@ Usb-c hole
 
 Hours spent: ~0.5
 
-## August 23rd - First Submission
+# August 23rd - First Submission
 - Compiled every part needed into spreadsheet
 - Everything is from AliExpress and the PCB is from JLCPCB
 - Updated readme with the list of parts & links
@@ -99,7 +99,7 @@ Google Sheet of items to buy
 
 Hours spent: ~1.5
 
-## August 31st - On/Off Switch & Submission
+# August 31st - On/Off Switch & Submission
 - I forgot to add an on/off switch after I decided to add a battery
 - Added it to the schematic and put it on the top right of the board\
 ![image](https://cdn.hackclub.com/01a05a7e-0bd7-757b-ab14-f273ef7662d8/image.png)
