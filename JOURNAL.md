@@ -1,4 +1,10 @@
 # JOURNAL.md
+---
+Title: Lucky15
+Author: William
+Description: 15 key + rotary encoder macropad for media control and macros
+Created: 2026-07-15
+---
 ## July 15th - Starting Out
 - Decided on a 4x4 macropad with 15 keys and a rotary encoder
 - The 3 Switches at the top are to be previous track, pause/play, and next track
